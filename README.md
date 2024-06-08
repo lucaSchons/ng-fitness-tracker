@@ -19,9 +19,7 @@ Link para certificado de conclusão do curso: https://udemy-certificate.s3.amazo
 
 Eu construí um aplicativo completo e realista que ficou absolutamente lindo, usa o Material Design do Google e é extremamente rápido! Graças ao Firebase e Angularfire, adicionei funcionalidades de banco de dados em tempo real e vi minhas atualizações quase antes mesmo de realizá-las!
 
-### O que aprendi
-
-O que obtive de conhecimento:
+### O que Aprendi
 
 [x] Uma introdução detalhada ao Angular Material, sua documentação e seu uso <br>
 [x] Aplicativo realista que utiliza muitos componentes do Angular Material <br>
