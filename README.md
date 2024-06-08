@@ -1,27 +1,32 @@
-# FitnessTracker
+[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
+[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
+[PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
+[PROJECT__URL]: https://ng-fitness-tracker-7f1fd.web.app/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+# Projeto Curso da Udemy Ministrado por Maximilian Schwarzmüller
 
-## Development server
+Link para o curso: https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/?couponCode=JUST4U02223
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Stack
 
-## Code scaffolding
+![angular][ANGULAR__BADGE]
+![typescript][TYPESCRIPT__BADGE]
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📖 Sobre
 
-## Build
+[![project][PROJECT__BADGE]][PROJECT__URL]
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Eu construí um aplicativo completo e realista que ficou absolutamente lindo, usa o Material Design do Google e é extremamente rápido! Graças ao Firebase e Angularfire, adicionei funcionalidades de banco de dados em tempo real e vi minhas atualizações quase antes mesmo de realizá-las!
 
-## Running unit tests
+### O que aprendi
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+O que obtive de conhecimento:
 
-## Running end-to-end tests
+[x] Uma introdução detalhada ao Angular Material, sua documentação e seu uso
+[x] Aplicativo realista que utiliza muitos componentes do Angular Material
+[x] Exemplos de componentes como Datepickers, Sidenavs ou a Material Data Table (incluindo ordenação, filtragem e atualização ao vivo!)
+[x] Conexão de banco de dados em tempo real alimentada pelo Firebase (usando Firestore) e Angularfire
+[x] Melhor compreensão dos observables do RxJS
+E muito mais!
+Esse curso foi perfeito para mim, que queria praticar Angular, vê-lo em ação e aprender com a ajuda de um projeto 100% prático!
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
