@@ -5,7 +5,7 @@
 
 # Projeto Curso da Udemy Ministrado por Maximilian Schwarzmüller
 
-Link para o curso: https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/?couponCode=JUST4U02223
+Link para o curso: https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/?couponCode=JUST4U02223 <br>
 Link para certificado de conclusão do curso: https://udemy-certificate.s3.amazonaws.com/pdf/UC-5e48d90b-1184-4b8d-8550-7404d69b7e1d.pdf
 
 ## Stack
