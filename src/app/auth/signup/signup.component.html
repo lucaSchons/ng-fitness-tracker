@@ -1,0 +1,49 @@
+<section class="signup-form">
+    <form fxLayout="column" fxLayoutAlign="center center" fxLayoutGap="10px" #f="ngForm" (ngSubmit)="onSubmit(f)">
+        <mat-form-field>
+            <input 
+                type="email" 
+                matInput 
+                placeholder="Seu email" 
+                ngModel 
+                name="email"
+                required
+                #emailInput="ngModel">
+            <mat-error *ngIf="emailInput.hasError('required')">Campo não pode ser vazio</mat-error>
+            <mat-error *ngIf="!emailInput.hasError('required')">E-mail inválido</mat-error>
+        </mat-form-field>
+        <mat-form-field hintLabel="Senha com no mínimo 6 caracteres.">
+            <input 
+                type="password" 
+                matInput 
+                placeholder="Senha" 
+                ngModel 
+                name="password"
+                required
+                minlength="6"
+                #pwInput="ngModel">
+            <mat-hint align="end"> {{ pwInput.value?.length }} / 6</mat-hint>
+            <mat-error>Senha com no mínimo 6 caracteres</mat-error>
+        </mat-form-field>
+        <mat-form-field>
+            <input 
+                matInput 
+                placeholder="Your Birthdate" 
+                [matDatepicker]="picker"
+                [max]="maxDate"
+                required
+                name="data"
+                ngModel>
+            <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+        </mat-form-field>
+        <mat-checkbox 
+            ngModel 
+            name="agree" 
+            color="primary"
+            required>
+            Eu aceito os termos e condições
+        </mat-checkbox>
+        <mat-datepicker #picker></mat-datepicker>
+        <button type="submit" mat-raised-button color="primary" [disabled]="f.invalid">Enviar</button>
+    </form> 
+</section>
